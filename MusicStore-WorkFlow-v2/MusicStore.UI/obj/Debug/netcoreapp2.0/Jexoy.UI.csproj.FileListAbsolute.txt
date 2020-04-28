@@ -1,0 +1,14 @@
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\Jexoy.UI.deps.json
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\Jexoy.UI.runtimeconfig.json
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\Jexoy.UI.runtimeconfig.dev.json
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\Jexoy.UI.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\bin\Debug\netcoreapp2.0\Jexoy.UI.pdb
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\obj\Debug\netcoreapp2.0\Jexoy.UI.csprojAssemblyReference.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\obj\Debug\netcoreapp2.0\Jexoy.UI.AssemblyInfoInputs.cache
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\obj\Debug\netcoreapp2.0\Jexoy.UI.AssemblyInfo.cs
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\obj\Debug\netcoreapp2.0\Jexoy.UI.dll
+C:\Users\Nithya\Documents\Nithya\Upwork\WebMobileDev\JEXOY-WorkFlow-v2\Jexoy.UI\obj\Debug\netcoreapp2.0\Jexoy.UI.pdb

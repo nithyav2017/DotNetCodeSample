@@ -1,0 +1,10 @@
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\obj\Debug\netcoreapp2.0\Jexoy.API.csproj.CoreCompileInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\obj\Debug\netcoreapp2.0\Jexoy.API.AssemblyInfoInputs.cache
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\obj\Debug\netcoreapp2.0\Jexoy.API.AssemblyInfo.cs
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\bin\Debug\netcoreapp2.0\Jexoy.API.deps.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\bin\Debug\netcoreapp2.0\Jexoy.API.runtimeconfig.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\bin\Debug\netcoreapp2.0\Jexoy.API.runtimeconfig.dev.json
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\bin\Debug\netcoreapp2.0\Jexoy.API.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\bin\Debug\netcoreapp2.0\Jexoy.API.pdb
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\obj\Debug\netcoreapp2.0\Jexoy.API.dll
+C:\Users\nithy\OneDrive\Documents\Jayaganesh\Upwork\Ayman\JEXOY-WorkFlow\Jexoy.API\obj\Debug\netcoreapp2.0\Jexoy.API.pdb
