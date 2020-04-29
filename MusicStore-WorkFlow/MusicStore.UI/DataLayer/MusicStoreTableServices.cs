@@ -13,7 +13,7 @@ namespace MusicStore.UI.DataLayer
     {
         public List<Table> ReadSchema()
         {
-            const string __connectionString = @"Data Source=laptop-sj2503eq;Integrated Security=true;Initial Catalog=MusicStore";
+            const string __connectionString = @"Data Source=;Integrated Security=true;Initial Catalog=MusicStore";
             var __dbReader = new DatabaseReader(new SqlConnection(__connectionString));
             var __schema = __dbReader.ReadAll();
             List<Table> __tables = new List<Table>();
